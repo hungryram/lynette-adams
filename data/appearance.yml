@@ -18,11 +18,12 @@ footer:
   realtor_logo: true
   important_documents: []
 branding:
-  site_title: Real Estate
-  logo: https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png
-  favicon: https://res.cloudinary.com/hungryram19/image/upload/v1630445963/templates/realestate2/favicon_zlmzct.png
-  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png
+  site_title: Lynette Adams
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1639707575/lynette-adams/Lynette_M._Adams-Logo_adyy1e.jpg
+  favicon: ''
+  dark_logo: ''
   logo_width: 120
+  mobile_logo_width: 
 header:
   top_header_color: "#070811"
   header_background_color: "#ffffff"
@@ -41,10 +42,10 @@ sidebar:
     heading: More Listings
   single_property_sidebar: true
 colors:
-  button_background_color: "#3fb9be"
+  button_background_color: "#000000"
   button_text_color: "#FFFFFF"
-  links: "#3fb9be"
-  accent: "#3fb9be"
+  links: "#BF9A71"
+  accent: "#BF9A71"
 search_field:
   disable_search: false
   search_by_state: false
