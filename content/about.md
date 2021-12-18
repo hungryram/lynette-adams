@@ -3,9 +3,6 @@ meta_description = "Lynette M. Adams is a licensed Realtor with over 18 years of
 no_index = false
 title = "About"
 title_tag = "About Lynette M. Adams | Realtor in South Bay and Inland Empire"
-[menu.main]
-parent = "Resources"
-weight = 2
 
 +++
 ## About Lynette M. Adams
