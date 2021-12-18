@@ -1,27 +1,31 @@
 ---
-company_name: Real Estate Company
+company_name: Homes by Lynette Adams
 social_media:
-  instagram: er
-  twitter: er
-  facebook: er
+  instagram: ''
+  twitter: ''
+  facebook: ''
   pinterest: ''
   yelp: ''
   linkedin: ''
   tiktok: ''
+  youtube: ''
 contact_information:
-  phone: 
-  name: John Doe
-  cell: 232-453-3467
-  address: 419 Street Address
-  email: john@realestatecompany.com
-  license: 'BRE #5411555'
-  city: Yorba Linda
-  state: California
-  zip_code: "92882"
+  phone: "(310) 492-5611"
+  name: Lynette Adams
+  cell: "(310) 466-1513"
+  address: 23670 Hawthorne Blvd. Suite 100
+  email: LynetteA@homesbylynetteadams.com
+  license: CalDRE# 01273453
+  city: Torrance
+  state: CA
+  zip_code: "90505"
+  google_page_link: ''
 search_engine_optimization:
-  title_tag: Real Estate Theme
-  meta_description: The only real estate theme you need
+  title_tag: Lynette Adams - Licensed Realtor in South Bay and Inland Empire
+  meta_description: Lynette Adams specializes in the sale of residential properties
+    in South Bay and Inland Empire, and well versed in the luxury real estate market.
   twitter_card:
     twitter_username: ''
   facebook:
     app_id: ''
+  no_index: false
