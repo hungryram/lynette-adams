@@ -1,12 +1,15 @@
 +++
-meta_description = ""
+meta_description = "Lynette M. Adams is a licensed Realtor with over 18 years of experience specializing in the sale and purchase of homes in the South Bay and Inland Empire, CA areas. She also specializes in luxury real estate for clients looking to buy or sell high-end homes"
+no_index = false
 title = "About"
-title_tag = ""
+title_tag = "About Lynette M. Adams | Realtor in South Bay and Inland Empire"
 [menu.main]
 parent = "Resources"
 weight = 5
 
 +++
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+## About Lynette M. Adams
 
-Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+Lynette M. Adams is a licensed Realtor with over 18 years of experience. She prides herself on providing her clients with exceptional service and professional representation. Lynette specializes in the sale of residential properties in the South Bay and Inland Empire. She is also well versed in the Luxury Real Estate Market. She is extremely detail-oriented and strives to make her clients feel comfortable while making sure they are always informed and educated about the sales process. Lynette’s work ethic and “white glove” service afforded to her clients at all times, helps her to exceed clients’ expectations.  
+  
+Lynette is a native of California and holds a Bachelor’s Degree in Communications from California State University Northridge and a Master’s Degree in Business Management from the University of Redlands. Lynette is a wife and mother of three (3) amazing children.
