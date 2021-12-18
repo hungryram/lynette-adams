@@ -17,12 +17,17 @@ slideshow:
   image: https://res.cloudinary.com/hungryram19/image/upload/v1628902200/templates/realestate2/bathroom-bg3_onhi8u.jpg
 home_sections:
 - template: text-and-image
-  heading: Discover Our Finest Homes
-  body: Each section of the home page can be arranged and customized through your
-    phone or computer. Easily manage your website through our website editor customized
-    specifically for real estate professionals.
+  heading: Lynette Adams Licensed Realtor
+  body: Lynette M. Adams, is a licensed Realtor with over 18 years of experience.
+    She prides herself on providing her clients with exceptional service and professional
+    representation. Lynette specializes in the sale of residential properties in the
+    South Bay and Inland Empire. She is also well versed in the Luxury Real Estate
+    Market. She is extremely detail oriented and strives to make her clients feel
+    comfortable while making sure they are always informed and educated about the
+    sales process. Lynette’s work ethic and “white glove” service afforded to her
+    clients at all times, helps her to exceed clients’ expectations.
   button: Read more
-  button_link: "/our-team"
+  button_link: "/about"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1639707517/lynette-adams/lynette-adams_yn2pee.jpg
   image_alt_tag: Lynette Adams
   image_width: 400
