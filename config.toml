@@ -6,6 +6,25 @@ summaryLength = 25
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Home Valuation"
+parent = "Sellers"
+url = "/home-valuation"
+weight = 1
+[[menu.main]]
+name = "Sellers"
+weight = 4
+[[menu.main]]
+name = "Search Homes"
+parent = "Buyers"
+weight = 1
+[[menu.main]]
+name = "Buyers"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
