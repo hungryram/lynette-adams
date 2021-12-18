@@ -19,10 +19,10 @@ footer:
   important_documents: []
 branding:
   site_title: Lynette Adams
-  logo: https://res.cloudinary.com/hungryram19/image/upload/v1639707575/lynette-adams/Lynette_M._Adams-Logo_adyy1e.jpg
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1639865695/lynette-adams/Lynette-M-logo_vqwbxz.png
   favicon: ''
-  dark_logo: ''
-  logo_width: 120
+  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1639865695/lynette-adams/Lynette-M-logo_vqwbxz.png
+  logo_width: 150
   mobile_logo_width: 
 header:
   top_header_color: "#070811"
