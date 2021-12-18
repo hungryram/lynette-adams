@@ -5,7 +5,7 @@ title = "About"
 title_tag = "About Lynette M. Adams | Realtor in South Bay and Inland Empire"
 [menu.main]
 parent = "Resources"
-weight = 5
+weight = 2
 
 +++
 ## About Lynette M. Adams
