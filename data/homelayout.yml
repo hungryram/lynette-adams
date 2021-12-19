@@ -1,20 +1,12 @@
 ---
 slideshow:
-- heading: Highly Customizable Real Estate Theme
-  subtitle: 
-  link_label: Read More
-  link: https://www.hungryram.com
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1630458883/templates/realestate2/shutterstock_12168997453_dgp9fa.jpg
-  body: Optionally integrate with IDX or use built in tools
-  enable_white_text: false
-- heading: Super Versatile for Custom Features
+- heading: LYNETTE M. ADAMS
   subtitle: 
   link_label: Contact
   link: "/contact"
-  body: Need features specific for your business? Get in touch and we'll be happy
-    to help
+  body: "#### Licensed Realtor servicing South Bay and Inland Empire"
   enable_white_text: false
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1628902200/templates/realestate2/bathroom-bg3_onhi8u.jpg
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1639875809/lynette-adams/backyard-with-pool_b2n9jg.jpg
 home_sections:
 - template: text-and-image
   heading: Lynette Adams Licensed Realtor
