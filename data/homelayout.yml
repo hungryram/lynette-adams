@@ -20,8 +20,9 @@ home_sections:
   image_alt_tag: Lynette Adams
   image_width: 400
 - template: featured-boxes
-  heading: The Featured Box
-  body: Add in Featured Boxes and link them wherever you need to
+  heading: Rely on Expertise
+  body: I'm committed to providing the most valuable real estate experience when you
+    work with me.
   featured:
   - heading: Home Valuation
     image: https://res.cloudinary.com/hungryram19/image/upload/v1639950260/lynette-adams/one-story-house_wtiqfs.jpg
@@ -33,14 +34,15 @@ home_sections:
     image: https://res.cloudinary.com/hungryram19/image/upload/v1639878028/lynette-adams/wood-kitchen_mpv1cl.jpg
     link: "/contact"
 - template: text-and-contact-form
-  heading: We help you buy or sell your property quickly
-  body: Engage with our professional real estate agents to sell, buy or rent your
-    home. Get emails directly to your inbox and manage the lead as you wish.
+  heading: Are you in the market of buying or selling in South Bay or Inland Empire?
+  body: Real Estate is my passion and helping people is what I love to do! Give me
+    a call today so I can help you with your real estate needs. Whether it be an evaluation
+    of the home or if there are any questions about purchasing.
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1639950529/lynette-adams/fireplace-interior_rksz35.jpg
   form:
     heading: Send a message
-    body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get emails directly to your inbox and manage the lead as you wish.
+    body: Contact Lynette Adams today if you are in the market of selling or buying
+      a home.
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
