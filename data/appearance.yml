@@ -4,11 +4,13 @@ footer:
     pages: search.md
     quick_links: []
   footer_background_color: "#232733"
-  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
+  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1639876312/lynette-adams/dark-kitchen_zlhwkx.jpg
   logo: ''
-  footer_bio: Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, eveniet!
-    Officia repellendus aliquam necessitatibus iure, porro voluptas magnam laboriosam
-    nesciunt
+  footer_bio: |-
+    Lynette M. Adams specializes in finding and selling homes in the following areas:
+    Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood,
+    Lawndale, Lomita, Los Angeles (Harbor City, Harbor Gateway, San Pedro and
+    Wilmington), Manhattan Beach and the Inland Empire.
   enable_black_text: false
   disclaimer: |-
     The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website.
