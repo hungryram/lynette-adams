@@ -23,15 +23,15 @@ home_sections:
   heading: The Featured Box
   body: Add in Featured Boxes and link them wherever you need to
   featured:
-  - heading: View Active Listings
+  - heading: Home Valuation
     image: https://res.cloudinary.com/hungryram19/image/upload/v1639950260/lynette-adams/one-story-house_wtiqfs.jpg
-    link: "/status/active"
-  - heading: Featured Listings
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1639876312/lynette-adams/dark-kitchen_zlhwkx.jpg
-    link: "/featured/featured"
-  - heading: Our Team
+    link: "/home-valuation"
+  - heading: Search Homes
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1639949900/lynette-adams/modern-gold-kitchen_spooei.jpg
+    link: "/listings"
+  - heading: Contact
     image: https://res.cloudinary.com/hungryram19/image/upload/v1639878028/lynette-adams/wood-kitchen_mpv1cl.jpg
-    link: "/our-team"
+    link: "/contact"
 - template: text-and-contact-form
   heading: We help you buy or sell your property quickly
   body: Engage with our professional real estate agents to sell, buy or rent your
