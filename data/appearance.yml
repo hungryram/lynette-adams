@@ -24,7 +24,7 @@ branding:
   logo: https://res.cloudinary.com/hungryram19/image/upload/v1639865695/lynette-adams/Lynette-M-logo_vqwbxz.png
   favicon: https://res.cloudinary.com/hungryram19/image/upload/v1639954276/lynette-adams/favicon_lclrjf.jpg
   dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1639865695/lynette-adams/Lynette-M-logo_vqwbxz.png
-  logo_width: 150
+  logo_width: 130
   mobile_logo_width: 
 header:
   top_header_color: "#070811"
