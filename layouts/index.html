@@ -224,9 +224,9 @@
                     {{ if .form.heading }}
                     <h2 class="uk-white">{{ .heading }}</h2>
                     {{ end }}
-                    {{ if .form.body }}
+                    {{ if .body }}
                     <div class="summary-card mb-4">
-                      <p>{{ .form.body | markdownify }}</p>
+                      <p>{{ .body | markdownify }}</p>
                     </div>
                     {{ end }}
                 </div>
