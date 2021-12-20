@@ -12,12 +12,13 @@ parent = "Sellers"
 url = "/home-valuation"
 weight = 1
 [[menu.main]]
-name = "Sellers"
-weight = 4
-[[menu.main]]
 name = "Search Homes"
 parent = "Buyers"
+url = "/listings"
 weight = 1
+[[menu.main]]
+name = "Sellers"
+weight = 4
 [[menu.main]]
 name = "Buyers"
 weight = 3
