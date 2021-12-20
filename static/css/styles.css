@@ -159,6 +159,15 @@ div.uk-navbar-dropdown {
     div.mobile-quicksearch {
         display: none;
     }
+
+    body div h1.hero-text {
+        font-size: 6rem;
+    }
+}
+
+body h1.hero-text{
+    font-family: 'Waterfall', cursive!important;
+    font-size: 4rem;
 }
 
 /* WHITE/BLACK LOGO */

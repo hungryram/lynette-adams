@@ -33,7 +33,7 @@
             <div class="uk-position-center uk-position-small uk-text-center">
                 <div class="uk-width-2xlarge uk-{{ if $slideSettings.enable_black_text }}dark{{ else }}light{{ end }}">
                     {{ if .subtitle }}<h4>{{ .subtitle }}</h4>{{ end }}
-                    {{ if .heading }}<h1 class="uk-margin-remove">{{ .heading }}</h1>{{ end }}
+                    {{ if .heading }}<h1 class="uk-margin-remove hero-text">{{ .heading }}</h1>{{ end }}
                     {{ if .body }}<p class="uk-margin-remove uk-text-default">{{ .body | markdownify }}</p>{{ end }}
                     {{ if eq $.Site.Data.idx.enable_idx false }}
                     <div class="uk-margin-medium-top">
