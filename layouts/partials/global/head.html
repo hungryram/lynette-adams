@@ -34,5 +34,15 @@
 {{ if $.Site.Data.idx.enable_google_recaptcha }}
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 {{ end }}
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4EE95X12PB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4EE95X12PB');
+</script>
 </head>
 <body>
